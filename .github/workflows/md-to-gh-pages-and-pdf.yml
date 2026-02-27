@@ -64,7 +64,7 @@ jobs:
         
       - name: Update markdown download link
         run: |
-          sed -i 's|📎 Download this CV \[as a PDF\](https://github.com/marcodellemarche/cv/releases/download/latest/marco-ferretti-cv.pdf)|🌐 Check this CV at \[cv.marcodellemarche.com\](https://cv.marcodellemarche.com)|' README.md
+          sed -i 's|📎 Download this CV \[as a PDF\](https://github.com/vito-marcode/cv/releases/download/latest/marco-de-vito-cv.pdf)|🌐 Check this CV at \[cv.devmarco.com\](https://cv.devmarco.com)|' README.md
 
       - name: Convert to PDF
         env:
@@ -75,7 +75,7 @@ jobs:
             --css '.page-break { page-break-after: always; }' \
             --pdf-options '{ "format": "a4", "margin": "15mm 15mm" }' \
             --launch-options '{ "args": [ "--no-sandbox" ] }'
-          mv README.pdf marco-ferretti-cv.pdf
+          mv README.pdf marco-de-vito-cv.pdf
 
       - name: Upload PDF into latest release
         uses: marvinpinto/action-automatic-releases@v1.2.1
@@ -85,4 +85,4 @@ jobs:
           prerelease: false
           title: "CV's PDF"
           files: |
-            marco-ferretti-cv.pdf
+            marco-de-vito-cv.pdf
