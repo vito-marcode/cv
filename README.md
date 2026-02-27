@@ -2,22 +2,30 @@
 
 <img src="assets/profile.png" alt="Profile picture" width="200" align="right"/>
 
-*Software Engineer (Frontend), based in Fabriano, Italy* 🇮🇹
+*Full-Stack Software Engineer (Frontend Specialist), based in Fabriano, Italy* 🇮🇹
 
 [Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-devito-496a13113) / [GitHub](https://github.com/vito-marcode)
 
 📎 Download this CV [as a PDF](https://github.com/vito-marcode/cv/releases/download/latest/marco-de-vito-cv.pdf)
 
+## 👤 About Me
+
+Full-stack developer with 9+ years of experience building digital solutions, specialising in frontend development for Public Administration platforms. Expert in React/TypeScript interfaces, accessibility- and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs. Proven experience in read model development, decoupled architectures, and reusable component libraries aligned with the Italian Design System and AgID guidelines. Also active in IoT and Home Automation projects, including firmware development, hardware integration, CAD modelling, and 3D printing.
+
 ## 💼 Work Experience
 
 **Software Engineer (Frontend)** @ [OpenCity Italia](https://www.opencityitalia.it) *(Dec 2023 - Present)*
 
-Design and implementation of user interfaces with a focus on usability, accessibility, and clarity of operational flows, working closely with backend, design, and product teams.
+Design and implementation of user interfaces with a focus on usability, accessibility, and clarity of operational flows, in close collaboration with backend, design, and product teams.
 
 - Involved in functional and technical design and development of a citizen-facing platform for Italian public administration entities.
-- Led the frontend development of the citizen personal area, covering features such as case management, document consultation, and payment views.
-- Aggregated data and statuses from external systems into a single coherent and user-friendly interface.
-- Participated in all project phases, from requirements analysis to feature delivery, with a strong focus on frontend quality and user experience.
+- Led the frontend development of the citizen personal area, covering case management, document consultation, and payment features.
+- Built read models with Directus and integrated data from multiple external platforms into a coherent multi-tenant architecture.
+- Developed custom Form.io components with dynamic rules, advanced validations, subform management, and automatic prefill.
+- Ensured full compliance with Bootstrap Italia / Design React Kit and WCAG 2.1 AA accessibility standards.
+- Supported PNRR asseverations, data migration from legacy sites, and produced technical and functional documentation.
+
+- ***Technologies used:*** React, TypeScript, Vite, GraphQL, Redux/Zustand, Bootstrap Italia, Design React Kit Italia, Form.io, Docker, CI/CD, REST APIs, SPID/CIE/eIDAS
 
 ---
 
@@ -27,7 +35,10 @@ Design and implementation of user interfaces with a focus on usability, accessib
 
 Technical analysis, development, and maintenance of a B2B and B2B2C financial web portal for **Banca IMI**, dedicated to institutional clients.
 
-- ***Technologies used:*** React.js
+- Designed and maintained reusable component libraries and responsive, mobile-first layouts.
+- Managed microfrontend modules and embedded widget integrations.
+
+- ***Technologies used:*** React.js, TypeScript, JavaScript, HTML, CSS
 
 **Web Developer** @ InvestoPro *(Aug 2018 - Feb 2019)*
 
@@ -35,7 +46,7 @@ Technical analysis, development, and maintenance of a B2B and B2B2C financial we
 
 Development and maintenance of the "Offerte a Distanza" section of the **Banca Intesa Sanpaolo** Internet Banking website.
 
-- ***Technologies used:*** AngularJS
+- ***Technologies used:*** AngularJS, JavaScript, HTML, CSS
 
 ---
 
@@ -94,11 +105,21 @@ Participated in an international workshop on mobile application development at H
 
 ## 🛠️ Skills
 
-**Languages & Frameworks:** JavaScript, React.js, AngularJS, HTML, CSS, Python, C++, .NET C#, SQL
+**Frontend Development:** React, TypeScript, JavaScript (ES6+), Vite, AngularJS, HTML5, CSS3, Redux, Zustand, GraphQL, microfrontends, vanilla JS loaders & widgets, responsive & mobile-first design, embed widgets, WCAG 2.1 AA accessibility
 
-**Tools & Technologies:** REST APIs, Web Services, Elasticsearch, OpenTSDB, Omnis Studio
+**Architecture & Data Integration:** Read models with Directus, multi-tenant integration, REST/GraphQL API design, data sync from internal and external platforms, interoperability with SPID/CIE/eIDAS
 
-**Focus areas:** Frontend development, UI/UX design, accessibility, public administration digital services
+**Digital Forms & Form.io:** Custom components, subform management, dynamic rules, advanced validations, automatic prefill, integration with vertical services
+
+**PA & Digital Guidelines:** Italian Design System, Bootstrap Italia, Design React Kit Italia, AgID guidelines, legacy site data migration, PNRR assurance support, technical and functional documentation
+
+**DevOps & Infrastructure:** Docker, CI/CD pipelines, multi-tenant environment management, frontend deployment, performance monitoring
+
+**UX/UI & Service Design:** Information architecture, service page design, multi-channel journey mapping, co-design with citizens and stakeholders, microcopy and CTAs
+
+**IoT, Hardware & Home Automation:** ESP8266, LED Matrix MAX7219, ESPHome firmware, Home Assistant, CAD modelling, 3D printing, energy automations, custom dashboards
+
+**Other:** Python, C++, .NET C#, SQL, Omnis Studio, Elasticsearch, OpenTSDB
 
 ## 💬 Languages
 
