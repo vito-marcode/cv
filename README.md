@@ -1,88 +1,111 @@
-# Curriculum Vitae Markdown
-
-❗ The important stuff starts here ❗
-
-Hi everyone! This repository is a template and it's meant to be used as a starting point for your Curriculum Vitae.
-
-Come on, updating the CV is already boring by itself, imagine having to take care of its formatting as well. So the idea is to update a single Markdown file, like this README, and a Github Action will take care of the rest. It will:
-
-- Put the CV online on **Github Pages**, built with Jekyll. You can even use a custom domain if you'd like. You don't need to worry too much about the formatting. Feel free to move from Jekyll to [one of these](https://github.com/pages-themes).
-- Convert it to a **PDF**, which is uploaded as the `latest` Release. A link to it can be found a few lines above, so it can be easily downloaded by the online version of the CV.
-
-At every commit into the `main` branch, everything will be rebuilt and updated.
-
-Thus, the only thing you need to update is this README. And most importantly, before starting, there are a couple things to do:
-
-- **Update the links in the template below**, especially the link to the PDF. Just change `marcodellemarche/cvmd` with your Github username and repository name.
-- Enable Github Pages for your repo. Go to *Settings*, *Pages*, then under *Build and deployment* set the source to **Github Actions**.
-- You need to re-run once again the failed Action.
-
-*Pro tip*: if you need to force a page break into the PDF, simply use the following HTML element.
-
-```html
-<div class="page-break"></div>
-```
-
-That's it for today, I'll leave you to the fake CV you might take inspiration from. See ya! 👋
-
-❗ The important stuff ends here ❗
-
-<div class="page-break"></div>
-
-# Paolo Canestro
+# Marco De Vito
 
 <img src="assets/profile.png" alt="Profile picture" width="200" align="right"/>
 
-*Super powerful engineer, based on the moon* 🌝
+*Software Engineer (Frontend), based in Fabriano, Italy* 🇮🇹
 
-[Email](mailto:paolo@canestro.com) / [LinkedIn](https://www.linkedin.com/in/cvmd) / [GitHub](https://github.com/cvmd) / [Instagram](https://www.instagram.com/cvmd)
+[Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-devito-496a13113) / [GitHub](https://github.com/vito-marcode)
 
-📎 Download this CV [as a PDF](https://github.com/marcodellemarche/cvmd/releases/download/latest/cv.pdf)
+📎 Download this CV [as a PDF](https://github.com/vito-marcode/cv/releases/download/latest/cv.pdf)
 
-## 🌙 Moonlight Engineering Experience
+## 💼 Work Experience
 
-*At night, I take on some moonlight engineering gigs.*
+**Software Engineer (Frontend)** @ [OpenCity Italia](https://www.opencityitalia.it) *(Dec 2023 - Present)*
 
-**Satellite Repair Technician** @ [SatCom Solutions](http://satcomsolutions.net) *(Jun 2030 - Present)*
+Design and implementation of user interfaces with a focus on usability, accessibility, and clarity of operational flows, working closely with backend, design, and product teams.
 
-Repairing satellites orbiting the Earth, one screwdriver twist at a time. It's like a celestial puzzle.
+- Involved in functional and technical design and development of a citizen-facing platform for Italian public administration entities.
+- Led the frontend development of the citizen personal area, covering features such as case management, document consultation, and payment views.
+- Aggregated data and statuses from external systems into a single coherent and user-friendly interface.
+- Participated in all project phases, from requirements analysis to feature delivery, with a strong focus on frontend quality and user experience.
 
-- Conducted spacewalks in zero gravity to fix satellites, occasionally juggling tools for amusement.
+---
 
-- Reprogrammed satellite communication systems with a dash of moon-inspired humor.
+**Frontend Web Developer** @ [InvestoPro](https://www.investopro.it) *(Mar 2019 - Nov 2023)*
 
-- ***Technologies used:*** Celestial wrenches, zero-gravity jokes, satellite communication wizardry.
+*Fabriano, Marche, Italy — 4 years 9 months*
 
-## 👨‍🚀 Lunar Education
+Technical analysis, development, and maintenance of a B2B and B2B2C financial web portal for **Banca IMI**, dedicated to institutional clients.
 
-**Ph.D. in Lunar Engineering** @ [Università di Formaggio Lunare](https://www.formaggiolunare.edu) *(Aug 2020 - Dec 2021)*
+- ***Technologies used:*** React.js
 
-Studied the intricacies of lunar cheese formation and its potential applications in rocketry.
+**Web Developer** @ InvestoPro *(Aug 2018 - Feb 2019)*
 
-**B.A. in Galactic Giggles** @ [Università Comica delle Stelle](https://www.stellecomiche.edu) *(Mar 2017 - Jul 2020)*
+*Fabriano — 7 months*
 
-A degree in making the cosmos laugh, one planet at a time.
+Development and maintenance of the "Offerte a Distanza" section of the **Banca Intesa Sanpaolo** Internet Banking website.
+
+- ***Technologies used:*** AngularJS
+
+---
+
+**Software Developer** @ [Apra Informatica](https://www.aprainformatica.it) *(Oct 2016 - Aug 2018)*
+
+*Jesi, Marche, Italy — 1 year 11 months*
+
+Development and maintenance of an ERP management system, with integration via Web Services with mobile and B2B web applications.
+
+- ***Technologies used:*** Omnis Studio (Object-oriented), SQL
+
+---
+
+**Full Stack Developer** @ [Loccioni](https://www.loccioni.com) *(Jan 2016 - Sep 2016)*
+
+*9 months*
+
+Design and development of a REST Web application for monitoring the performance of robotic drug-dispensing systems in hospital pharmacy environments.
+
+- ***Technologies used:*** AngularJS, .NET C#, HTML, CSS, Elasticsearch
+
+**Thesis Internship** @ Loccioni *(Apr 2015 - Dec 2015)*
+
+*9 months*
+
+As part of the European project **RenewIT**:
+
+- Design and development of a non-relational OpenTSDB database for time series monitoring of Data Centres.
+- Development of an online support platform for evaluating energy efficiency and renewable energy integration during the design or revamping of Data Centres.
+
+- ***Technologies used:*** .NET C#, HTML, JavaScript, jQuery, CSS, SQL, OpenTSDB
+
+---
+
+**Internship** @ SPES scpa *(Dec 2014 - Jan 2015)*
+
+*Fabriano, Italy — 2 months*
+
+Study and exploration of Smarty, an HTML template engine for PHP enabling separation of presentation and application logic.
 
 <div class="page-break"></div>
 
-## 🌌 Interstellar Extracurriculars
+## 🌏 International Experience
 
-**Space Toastmasters Club** @ [Cosmic Communicators](http://cosmiccommunicators.club) *(Oct 2023 - Present)*
+**Workshop on Mobile Application** @ [Hong Kong Baptist University](https://www.hkbu.edu.hk) *(Jul 2015 - Aug 2015)*
 
-Mastering the art of cosmic speech and interstellar storytelling.
+*Hong Kong — 2 months*
 
-**Astro-Pizza Baking Course** @ [PizzaGalaxy Academy](https://www.pizzagalaxy.edu) *(May 2022 - Jun 2022)*
+Participated in an international workshop on mobile application development at Hong Kong Baptist University.
 
-Learned the fine art of baking pizza with moon dust and star cheese. Deliciously otherworldly.
+## 🎓 Education
 
-## 💬 Multilingual Skills
+**Bachelor's Degree in Computer Science** *(Scienze e Tecnologie Informatiche)* @ [Università degli Studi di Perugia](https://www.unipg.it) *(2011 - 2016)*
 
-🧀 **Lunar**: Fluent
+**Computer and Electronic Engineering** *(Ingegneria Informatica ed Elettronica)* @ [Università degli Studi di Perugia](https://www.unipg.it) *(2009 - 2010)*
 
-🌌 **Galactic English**: Conversational
+## 🛠️ Skills
 
-👽 **Alien Dialects**: Proficient in Charades
+**Languages & Frameworks:** JavaScript, React.js, AngularJS, HTML, CSS, Python, C++, .NET C#, SQL
 
-In summary, I'm not your typical engineer or comedian. I'm the guy who builds rockets and tells jokes on the moon. If you need a laugh and a lift-off, I'm your man! 🚀🌝😂
+**Tools & Technologies:** REST APIs, Web Services, Elasticsearch, OpenTSDB, Omnis Studio
+
+**Focus areas:** Frontend development, UI/UX design, accessibility, public administration digital services
+
+## 💬 Languages
+
+🇮🇹 **Italian**: Native
+
+🇬🇧 **English**: Professional working proficiency
+
+---
 
 *I authorize the processing of personal data contained in my curriculum vitae based on art. 13 GDPR 679/16.*
