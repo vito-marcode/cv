@@ -10,7 +10,7 @@
 
 ## 👤 About Me
 
-Full-stack developer with 9+ years of experience building digital solutions, specialising in frontend development for Public Administration platforms. Expert in React/TypeScript interfaces, accessibility- and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs. Proven experience in read model development, decoupled architectures, and reusable component libraries aligned with the Italian Design System and AgID guidelines. Also active in IoT and Home Automation projects, including firmware development, hardware integration, CAD modelling, and 3D printing.
+Full-stack developer with 9+ years of experience building digital solutions, specialising in frontend development for Public Administration platforms. Expert in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs. Proven experience in read model development, decoupled architectures, and reusable component libraries aligned with the Italian Design System and AgID guidelines. Also active in IoT and Home Automation projects, including firmware development, hardware integration, CAD modelling, and 3D printing.
 
 ## 💼 Work Experience
 
@@ -25,7 +25,7 @@ Design and implementation of user interfaces with a focus on usability, accessib
 - Ensured full compliance with Bootstrap Italia / Design React Kit and WCAG 2.1 AA accessibility standards.
 - Supported PNRR asseverations, data migration from legacy sites, and produced technical and functional documentation.
 
-- ***Technologies used:*** React, TypeScript, Vite, GraphQL, Redux/Zustand, Bootstrap Italia, Design React Kit Italia, Form.io, Docker, CI/CD, REST APIs, SPID/CIE/eIDAS
+- ***Technologies used:*** React, TypeScript, Vite, GraphQL, Redux, Form.io, Docker, CI/CD, REST APIs, SPID/CIE/eIDAS, Bootstrap Italia, Design React Kit Italia
 
 ---
 
