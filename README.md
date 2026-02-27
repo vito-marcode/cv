@@ -6,7 +6,7 @@
 
 [Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-devito-496a13113) / [GitHub](https://github.com/vito-marcode)
 
-📎 Download this CV [as a PDF](https://github.com/vito-marcode/cv/releases/download/latest/cv.pdf)
+📎 Download this CV [as a PDF](https://github.com/vito-marcode/cv/releases/download/latest/marco-de-vito-cv.pdf)
 
 ## 💼 Work Experience
 
