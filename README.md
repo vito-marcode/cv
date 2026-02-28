@@ -3,7 +3,7 @@
 <img src="assets/profile.png" alt="Profile picture" width="200" align="right"/>
 
 
-Full-stack developer with 10+ years of experience, specialising in frontend development. Skilled at bridging business requirements and user needs, translating them into intuitive flows and UX solutions that deliver real value — backed by deep expertise in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs.
+Full-stack developer with 10+ years of experience, specialising in frontend development. Skilled at bridging business requirements and user needs, translating them into intuitive flows and UX solutions that deliver real value. Deep expertise in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs.
 
 [Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-de-vito-496a13113) / [GitHub](https://github.com/vito-marcode)
 
