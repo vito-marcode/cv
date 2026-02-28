@@ -64,7 +64,7 @@ jobs:
         
       - name: Update markdown download link
         run: |
-          sed -i 's|📎 Download this CV \[as a PDF\](https://github.com/vito-marcode/cv/releases/download/latest/marco-de-vito-cv.pdf)|🌐 Check this CV at \[cv.devmarco.com\](https://cv.devmarco.com)|' README.md
+          sed -i 's|📎 Download this CV \[as a PDF\](https://github.com/vito-marcode/cv/releases/download/latest/marco-de-vito-cv.pdf)|🌐 Check this CV at \[cv.devmarco.com\](https://cv.devmarco.it)|' README.md
 
       - name: Convert to PDF
         env:
