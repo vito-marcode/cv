@@ -34,28 +34,20 @@ Design and implementation of user interfaces with a focus on usability, accessib
 - Ensured full compliance with Bootstrap Italia / Design React Kit and WCAG 2.1 AA accessibility standards.
 - Supported PNRR asseverations, data migration from legacy sites, and produced technical and functional documentation.
 
-- ***Technologies used:*** React, TypeScript, Vite, GraphQL, Redux, Form.io, Docker, CI/CD, REST APIs, SPID/CIE/eIDAS, Bootstrap Italia, Design React Kit Italia
+- ***Technologies used:*** React, TypeScript, SASS, Vite, GraphQL, Redux, Form.io, Docker, CI/CD, REST APIs, SPID/CIE/eIDAS, Bootstrap Italia, Design React Kit Italia
 
 ---
 
-**Frontend Web Developer** @ [Marketwall](https://www.marketwall.com) *(Mar 2019 - Nov 2023)*
+**Frontend Web Developer** @ [Marketwall](https://www.marketwall.com) *(Aug 2018 - Nov 2023)*
 
-*Fabriano, Marche, Italy — 4 years 9 months*
+*Fabriano, Marche, Italy — 5 years+*
 
 Technical analysis, development, and maintenance of a B2B and B2B2C financial web portal for **Banca IMI**, dedicated to institutional clients.
 
 - Designed and maintained reusable component libraries and responsive, mobile-first layouts.
 - Managed microfrontend modules and embedded widget integrations.
-
-- ***Technologies used:*** React.js, TypeScript, JavaScript, HTML, CSS
-
-**Web Developer** @ InvestoPro *(Aug 2018 - Feb 2019)*
-
-*Fabriano — 7 months*
-
-Development and maintenance of the "Offerte a Distanza" section of the **Banca Intesa Sanpaolo** Internet Banking website.
-
-- ***Technologies used:*** AngularJS, JavaScript, HTML, CSS
+- Development and maintenance of the "Offerte a Distanza" section of the **Banca Intesa Sanpaolo** Internet Banking website.
+- ***Technologies used:*** React.js, TypeScript, JavaScript, HTML, CSS/SASS, AngularJS
 
 ---
 
