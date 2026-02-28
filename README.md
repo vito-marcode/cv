@@ -6,7 +6,7 @@
 
 Full-stack developer with 9+ years of experience building digital solutions, specialising in frontend development for Public Administration platforms. Expert in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs. Proven experience in read model development, decoupled architectures, and reusable component libraries aligned with the Italian Design System and AgID guidelines. Also active in IoT and Home Automation projects, including firmware development, hardware integration, CAD modelling, and 3D printing.
 
-[Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-devito-496a13113) / [GitHub](https://github.com/vito-marcode)
+[Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-de-vito-496a13113) / [GitHub](https://github.com/vito-marcode)
 
 📎 Download this CV [as a PDF](https://github.com/vito-marcode/cv/releases/download/latest/marco-de-vito-cv.pdf)
 
@@ -38,7 +38,7 @@ Design and implementation of user interfaces with a focus on usability, accessib
 
 ---
 
-**Frontend Web Developer** @ [InvestoPro](https://www.investopro.it) *(Mar 2019 - Nov 2023)*
+**Frontend Web Developer** @ [https://evo.investopro.it](https://evo.investopro.com/) *(Mar 2019 - Nov 2023)*
 
 *Fabriano, Marche, Italy — 4 years 9 months*
 
