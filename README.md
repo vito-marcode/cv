@@ -38,7 +38,7 @@ Design and implementation of user interfaces with a focus on usability, accessib
 
 ---
 
-**Frontend Web Developer** @ [https://evo.investopro.it](https://evo.investopro.com/) *(Mar 2019 - Nov 2023)*
+**Frontend Web Developer** @ [Marketwall](https://www.marketwall.com) *(Mar 2019 - Nov 2023)*
 
 *Fabriano, Marche, Italy — 4 years 9 months*
 
