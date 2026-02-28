@@ -4,7 +4,7 @@
 
 *Full-Stack Software Engineer (Frontend Specialist), based in Fabriano AN, Italy*
 
-Full-stack developer with 9+ years of experience building digital solutions, specialising in frontend development for Public Administration platforms. Expert in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs. Proven experience in read model development, decoupled architectures, and reusable component libraries aligned with the Italian Design System and AgID guidelines. Also active in IoT and Home Automation projects, including firmware development, hardware integration, CAD modelling, and 3D printing.
+Full-stack developer with 9+ years of experience, specialising in frontend development for Public Administration platforms. Expert in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs. With a strong ability to bridge business requirements and user needs, translating them into intuitive flows and UX solutions that deliver real value.
 
 [Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-de-vito-496a13113) / [GitHub](https://github.com/vito-marcode)
 
@@ -102,7 +102,7 @@ Participated in an international workshop on mobile application development at H
 
 **Bachelor's Degree in Computer Science** *(Scienze e Tecnologie Informatiche)* @ [Università degli Studi di Perugia](https://www.unipg.it) *(2011 - 2016)*
 
-**Computer and Electronic Engineering** *(Ingegneria Informatica ed Elettronica)* @ [Università degli Studi di Perugia](https://www.unipg.it) *(2009 - àà2010)*
+**Computer and Electronic Engineering** *(Ingegneria Informatica ed Elettronica)* @ [Università degli Studi di Perugia](https://www.unipg.it) *(2009 - 2010)*
 
 ## Other
 
