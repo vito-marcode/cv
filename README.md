@@ -2,8 +2,7 @@
 
 <img src="assets/profile.png" alt="Profile picture" width="200" align="right"/>
 
-*Full-Stack Software Engineer (Frontend Specialist), based in Fabriano AN, Italy* 🇮🇹
-
+*Full-Stack Software Engineer (Frontend Specialist), based in Fabriano AN, Italy*
 Full-stack developer with 9+ years of experience building digital solutions, specialising in frontend development for Public Administration platforms. Expert in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs. Proven experience in read model development, decoupled architectures, and reusable component libraries aligned with the Italian Design System and AgID guidelines. Also active in IoT and Home Automation projects, including firmware development, hardware integration, CAD modelling, and 3D printing.
 
 [Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-de-vito-496a13113) / [GitHub](https://github.com/vito-marcode)
