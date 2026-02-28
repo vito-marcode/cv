@@ -2,17 +2,26 @@
 
 <img src="assets/profile.png" alt="Profile picture" width="200" align="right"/>
 
-*Full-Stack Software Engineer (Frontend Specialist), based in Fabriano, Italy* 🇮🇹
+*Full-Stack Software Engineer (Frontend Specialist), based in Fabriano AN, Italy* 🇮🇹
+
+Full-stack developer with 9+ years of experience building digital solutions, specialising in frontend development for Public Administration platforms. Expert in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs. Proven experience in read model development, decoupled architectures, and reusable component libraries aligned with the Italian Design System and AgID guidelines. Also active in IoT and Home Automation projects, including firmware development, hardware integration, CAD modelling, and 3D printing.
 
 [Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-devito-496a13113) / [GitHub](https://github.com/vito-marcode)
 
 📎 Download this CV [as a PDF](https://github.com/vito-marcode/cv/releases/download/latest/marco-de-vito-cv.pdf)
 
-## 👤 About Me
 
-Full-stack developer with 9+ years of experience building digital solutions, specialising in frontend development for Public Administration platforms. Expert in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs. Proven experience in read model development, decoupled architectures, and reusable component libraries aligned with the Italian Design System and AgID guidelines. Also active in IoT and Home Automation projects, including firmware development, hardware integration, CAD modelling, and 3D printing.
 
-## 💼 Work Experience
+## Core Skills
+
+- **Frontend**: React, Next.js, Vite, Redux, GraphQL/REST, CSS/SASS, A11Y WCAG, Playwright
+- **Languages**: TypeScript, Python, Bash, C#
+- **Backend**: Node.js, Kafka, Directus, PostgreSQL, Redis
+- **Infrastructure**: Docker, Kubernetes, CI/CD, Windmill
+- **Other**: E2E + unit testing, distributed systems, microservices architecture, performance optimization
+
+
+## Work Experience
 
 **Software Engineer (Frontend)** @ [OpenCity Italia](https://www.opencityitalia.it) *(Dec 2023 - Present)*
 
@@ -89,7 +98,7 @@ Study and exploration of Smarty, an HTML template engine for PHP enabling separa
 
 <div class="page-break"></div>
 
-## 🌏 International Experience
+## International Experience
 
 **Workshop on Mobile Application** @ [Hong Kong Baptist University](https://www.hkbu.edu.hk) *(Jul 2015 - Aug 2015)*
 
@@ -97,35 +106,22 @@ Study and exploration of Smarty, an HTML template engine for PHP enabling separa
 
 Participated in an international workshop on mobile application development at Hong Kong Baptist University.
 
-## 🎓 Education
+## Education
 
 **Bachelor's Degree in Computer Science** *(Scienze e Tecnologie Informatiche)* @ [Università degli Studi di Perugia](https://www.unipg.it) *(2011 - 2016)*
 
-**Computer and Electronic Engineering** *(Ingegneria Informatica ed Elettronica)* @ [Università degli Studi di Perugia](https://www.unipg.it) *(2009 - 2010)*
+**Computer and Electronic Engineering** *(Ingegneria Informatica ed Elettronica)* @ [Università degli Studi di Perugia](https://www.unipg.it) *(2009 - àà2010)*
 
-## 🛠️ Skills
-
-**Frontend Development:** React, TypeScript, JavaScript (ES6+), Vite, AngularJS, HTML5, CSS3, Redux, Zustand, GraphQL, microfrontends, vanilla JS loaders & widgets, responsive & mobile-first design, embed widgets, WCAG 2.1 AA accessibility
-
-**Architecture & Data Integration:** Read models with Directus, multi-tenant integration, REST/GraphQL API design, data sync from internal and external platforms, interoperability with SPID/CIE/eIDAS
-
-**Digital Forms & Form.io:** Custom components, subform management, dynamic rules, advanced validations, automatic prefill, integration with vertical services
-
-**PA & Digital Guidelines:** Italian Design System, Bootstrap Italia, Design React Kit Italia, AgID guidelines, legacy site data migration, PNRR assurance support, technical and functional documentation
-
-**DevOps & Infrastructure:** Docker, CI/CD pipelines, multi-tenant environment management, frontend deployment, performance monitoring
-
-**UX/UI & Service Design:** Information architecture, service page design, multi-channel journey mapping, co-design with citizens and stakeholders, microcopy and CTAs
+## Other
 
 **IoT, Hardware & Home Automation:** ESP8266, LED Matrix MAX7219, ESPHome firmware, Home Assistant, CAD modelling, 3D printing, energy automations, custom dashboards
 
-**Other:** Python, C++, .NET C#, SQL, Omnis Studio, Elasticsearch, OpenTSDB
 
-## 💬 Languages
+## Languages
 
-🇮🇹 **Italian**: Native
+**Italian**: Native
 
-🇬🇧 **English**: Professional working proficiency
+**English**: Professional working proficiency
 
 ---
 
