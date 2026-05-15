@@ -4,6 +4,7 @@
 
 
 Full-stack developer with 10+ years of experience, specialising in frontend development. Skilled at bridging business requirements and user needs, translating them into intuitive flows and UX solutions that deliver real value. Deep expertise in React/TypeScript interfaces, accessibility and mobile-first UX/UI design, and integration of multi-tenant systems with REST/GraphQL APIs.
+Experienced in AI-assisted development workflows, agent-based automation, MCP integrations, and the design of technical documentation and operational flows optimized for AI systems and developer productivity.
 
 [Email](mailto:marcodevito47@gmail.com) / [LinkedIn](https://www.linkedin.com/in/marco-de-vito-496a13113) / [GitHub](https://github.com/vito-marcode)
 
@@ -17,6 +18,7 @@ Full-stack developer with 10+ years of experience, specialising in frontend deve
 - **Languages**: TypeScript, Python, Bash, C#
 - **Backend**: Node.js, Kafka, Directus, PostgreSQL, Redis
 - **Infrastructure**: Docker, Kubernetes, CI/CD, Windmill
+- **AI & Automation**: AI-assisted development workflows, Claude skill development, agent-based architectures, agentic loop integration, MCP server integration, prompt engineering, AI-oriented technical documentation, workflow automation with AI agents
 - **Other**: E2E + unit testing, distributed systems, microservices architecture, performance optimization
 
 
@@ -41,7 +43,7 @@ Design and implementation of user interfaces with a focus on usability, accessib
 
 *Fabriano, Marche, Italy — 5 years+*
 
-Technical analysis, development, and maintenance of a B2B and B2B2C financial web portal for **Banca IMI**, dedicated to institutional clients.
+Technical analysis, development, and maintenance of a B2B and B2B2C financial web portal for **IMI Corporate & Investment Banking Division - Intesa Sanpaolo**, dedicated to institutional clients.
 
 - Designed and maintained reusable component libraries and responsive, mobile-first layouts.
 - Managed microfrontend modules and embedded widget integrations.
